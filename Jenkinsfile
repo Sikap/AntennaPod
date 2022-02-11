@@ -22,6 +22,6 @@ pipeline {
 // Script //
 node {
     stage('Test') {
-        echo 'Building....'
+        echo 'Test....'
     }
 }
